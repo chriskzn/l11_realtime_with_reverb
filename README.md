@@ -7,4 +7,5 @@
 4. npm run dev
 5. php artisan make:event Example
 6. npm install alpinejs
-
+7. composer require laravel/breeze
+8. php artisan breeze:install
