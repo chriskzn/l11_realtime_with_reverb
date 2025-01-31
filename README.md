@@ -6,3 +6,5 @@
 3. php artisan reverb:start
 4. npm run dev
 5. php artisan make:event Example
+6. npm install alpinejs
+
